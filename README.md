@@ -1,8 +1,8 @@
 <div align="center">
- <a href="#"><img  src="https://i.pinimg.com/originals/09/3f/18/093f1861fc92b3a0ba497ece177b27e6.gif" width="600px" height="400px" /></a>
+ <a href="#"><img  src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad-1.gif" width="600px" height="400px" /></a>
  </div>
 
-<h1 align="center">Hi , I'm Infant</h1>
+<h1 align="center">Hi 👋, I'm Infant</h1>
 <h3 align="center">I'm a passionate Full Stack Developer.</h3>
 
 ## 🙋‍♂️ About Me
